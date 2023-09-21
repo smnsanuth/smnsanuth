@@ -33,9 +33,6 @@
             What I'm up to</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
-            <li> 🎓 I'm currently learning Flutter <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
-                    width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:aromalanilkannan@gmail.com" target="_blank">smnsanuth@gmail.com</a></li>
@@ -46,31 +43,9 @@
     <div>
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
-                alt="Javascript" />&nbsp;&nbsp;&nbsp
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-                alt="React.js" width="55" />
-            <img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
-                width="35" />&nbsp;&nbsp;&nbsp
-            <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-                alt="Node.js" width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
-                alt="Java" />&nbsp;&nbsp;&nbsp
-            <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
-                alt="Dart" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
-                width="48" />&nbsp;&nbsp;&nbsp
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,c,java,lua,vscode,html,css,ai,ps" />
+          </a>
         </p>
     </div>
     <div>
@@ -118,6 +93,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=smnsanuth&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
         width="130" /><br />
-    <a href="https://www.buymeacoffee.com/aromalanil" target="_blank"><img
+    <a href="https://www.buymeacoffee.com/smnsanuth" target="_blank"><img
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
 </div>
