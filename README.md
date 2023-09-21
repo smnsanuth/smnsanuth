@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hola Amigo's, I am <a href="https://www.linkedin.com/in/smnsanuth/" target="_blank">Sanuth</a> <img
+    <h1>Hello, I am <a href="https://www.linkedin.com/in/smnsanuth/" target="_blank">Sanuth</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
@@ -9,19 +9,19 @@
         Colombo, Sri Lanka<br>
   </pr>
     <div>
-        <a href="https://twitter.com/aromalanil5" target="_blank"><img alt="Twitter"
+        <a href="https://www.twitch.tv/aikonftw" target="_blank"><img alt="Twitch"
                 src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
-        <a href="https://twitter.com/aromalanil5" target="_blank"><img alt="Twitter"
+        <a href="https://www.youtube.com/aikonstreaming" target="_blank"><img alt="YouTube"
                 src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-        <a href="https://t.me/aromalanil"><img alt="Telegram"
+        <a href="https://www.tiktok.com/@aikonftw"><img alt="TikTok"
                 src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
-        <a href="https://www.dribbble.com/aromalanil"><img alt="Dribbble"
+        <a href="https://www.facebook.com/A1KONNN/"><img alt="FaceBook"
                 src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/smnsanuth/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:smnsanuth@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        <a href="https://medium.com/@aromalanil" target="_blank"><img alt="Medium"
+        <a href="https://discord.gg/KV3RqUMezN" target="_blank"><img alt="Discord"
                 src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
     </div>
 </div>
@@ -35,7 +35,7 @@
             <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:aromalanilkannan@gmail.com" target="_blank">smnsanuth@gmail.com</a></li>
+                <a href="mailto:smnsanuth@gmail.com" target="_blank">smnsanuth@gmail.com</a></li>
             <li>👀 Take a look at <a href="https://smnsanuth.in/" target="_blank">My Portfolio</a></li>
             <li>📄 Here's my <a href="https://smnsanuth.in/assets/resources/resume.pdf" target="_blank">Resume</a></li>
         </ul>
