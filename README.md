@@ -15,8 +15,10 @@
                 src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
         <a href="https://www.tiktok.com/@aikonftw"><img alt="TikTok"
                 src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
-        <a href="https://www.facebook.com/A1KONNN/"><img alt="FaceBook"
+        <a href="https://www.facebook.com/profile.php?id=100087050421151"><img alt="FaceBook"
                 src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+        <a href="https://twitter.com/smnsanuth" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/smnsanuth/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:smnsanuth@gmail.com" target="_blank"><img alt="Gmail"
